@@ -16,7 +16,9 @@ Dimension is defined as the minimum number of coordinates needed to specify any 
        ndarray.dtype #an object describing the type of elements in array 
        ndarray.itemsize #the size in bytes of each element of the array
        
-       
+### Permutation
+
+
 
 ### Probability distributions
 
