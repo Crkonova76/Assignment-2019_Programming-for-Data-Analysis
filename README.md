@@ -124,7 +124,7 @@ A normal distribution has a bell-shaped density curve described by its mean μ a
 
 The graph below describes what the distribution looks like:
 
-
+![Normal graph](https://user-images.githubusercontent.com/47481671/68549117-9e3a2f80-03ec-11ea-82a9-e563639f2f52.PNG)
 
 #### Poisson Distribution
 
