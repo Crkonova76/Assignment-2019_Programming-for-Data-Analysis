@@ -133,7 +133,7 @@ _source:_
 
 Poisson random variable is typically used to model the number of times an event happened in a time interval. For example, the number of users visited on a website in an interval can be thought of a Poisson process. Poisson distribution is described in terms of the rate (μ) at which the events happen. An event can occur 0, 1, 2, … times in an interval. The average number of events in an interval is designated λ (lambda). Lambda is the event rate, also called the rate parameter. The probability of observing k events in an interval is given by the equation:
 
-
+![Poisson formula](https://user-images.githubusercontent.com/47481671/68549157-038e2080-03ed-11ea-8c2e-d81280c3bcb2.PNG)
 
 The following graph shows typical poisson distribution:
 
