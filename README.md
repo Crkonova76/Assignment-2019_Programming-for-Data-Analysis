@@ -156,6 +156,7 @@ _source:_
 * Describes the numbers of particular outcomes in a sequence of n Bernoulli trials  (n independent experiments, each of which can yied exactly two possible outcomes 
 * Each outcome has a fixed probability ,the same from trial to trial
 * if the probability of a single particular outcome is p, the probablity that such a sequence of trials yields exactly k such outcomes is
+
 ![binomial formula](https://user-images.githubusercontent.com/47481671/68549174-320bfb80-03ed-11ea-8360-2ece03249043.PNG)
 
 
