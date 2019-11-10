@@ -29,13 +29,12 @@ _Source:_
 
 Dimension is defined as the minimum number of coordinates needed to specify any point within a space. In Numpy dimensions are called axes.The number of axes is rank.
 
-     |ndarray.ndim  |#num of axes, definition of dimension
-      |ndarray.shape |#describes how many data (range) along each available axis
-       |ndarray.size   |#provides the total number of elements of the array
-       |ndarray.dtype |#an object describing the type of elements in array 
-       |ndarray.itemsize |#the size in bytes of each element of the array
+ * ndarray.ndim - num of axes, definition of dimension<br/>
+ * ndarray.shape - describes how many data (range) along each available axis<br/>
+ * ndarray.size - provides the total number of elements of the array<br/>
+ * ndarray.dtype - an object describing the type of elements in array <br/>
+ * ndarray.itemsize - the size in bytes of each element of the array<br/>
        
-
 ### Statistics terms:
 
 #### Mean
@@ -51,10 +50,11 @@ _source:
 The Standard Deviation is a measure of how spread out numbers are.
 Its symbol is σ (the greek letter sigma)
 
+![Satndard deviation formula](https://user-images.githubusercontent.com/47481671/68548931-3551b800-03ea-11ea-994a-5db24ba3e243.png)
 
-&sigma = standard deviation
-&mu = mean
-N = how many values
+&sigma = standard deviation<br/>
+&mu = mean<br/>
+N = how many values<br/>
 Xi = individual value
 
 
