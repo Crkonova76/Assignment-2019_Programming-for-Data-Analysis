@@ -120,7 +120,7 @@ _source:_
 
 A normal distribution has a bell-shaped density curve described by its mean μ and standard deviation σ. The density curve is symmetrical, centered about its mean, with its spread determined by its standard deviation showing that data near the mean are more frequent in occurrence than data far from the mean. The probability distribution function of a normal density curve with mean μ and standard deviation σ at a given point x is given by:
 
-
+![Normal formula](https://user-images.githubusercontent.com/47481671/68549112-8662ab80-03ec-11ea-9e5b-59c864a06d59.PNG)
 
 The graph below describes what the distribution looks like:
 
