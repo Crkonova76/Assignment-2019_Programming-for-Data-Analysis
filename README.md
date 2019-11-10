@@ -110,7 +110,7 @@ The probability distribution function of the continuous uniform distribution is:
 The curve describing the distribution is a rectagle with constant heigh across the interval and 0 heigh elserwhere.Any interval of numbers of equal width has an equal probability of being observed.
 
 
-
+![Uniform distr graph](https://user-images.githubusercontent.com/47481671/68549152-e8bbac00-03ec-11ea-8f21-171ba187c931.PNG)
 
 
 #### Normal Distribution (Gaussian distribution)
