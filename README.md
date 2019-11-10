@@ -140,12 +140,12 @@ The following graph shows typical poisson distribution:
 ![Poisson graph](https://user-images.githubusercontent.com/47481671/68549167-1b65a480-03ed-11ea-9725-6f781083f8c6.PNG)
 
 Note that the normal distribution is a limiting case of Poisson distribution with the parameter λ→∞. Also, if the times between random events follow an exponential distribution with rate λ, then the total number of events in a time period of length t follows the Poisson distribution with parameter λ 
-#### Exponential Distribution
+#### Pareto Distribution
 
 _source:_
 >http://wiki.stat.ucla.edu/socr/index.php/AP_Statistics_Curriculum_2007_Pareto
 
-Pareto distribution is a skewed, heavy-tailed distribution that is sometimes used to model that distribution of incomes. The basis of the distribution is that a high proportion of a population has low income while only a few people have very high incomes.
+Pareto distribution is a skewed, heavy-tailed distribution that is sometimes used to model the distribution of incomes. The basis of the distribution is that a high proportion of a population has low income while only a few people have very high incomes.
 
 
 #### Binomial Distribution
