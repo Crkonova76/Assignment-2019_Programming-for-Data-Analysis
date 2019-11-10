@@ -77,7 +77,7 @@ b, Continues random variable -the functions that take on continuous values
 A permutation is an arrangement of all or part of a set of objects, with regard to the order of the arrangement.<br/>
 Formula for the number of permutations of n objects taken r at a time:<br/>
 
-
+![Permutation formula](https://user-images.githubusercontent.com/47481671/68549013-667eb800-03eb-11ea-9b73-2071018d6ccc.PNG)
 
 _source:_
 >https://stattrek.com/statistics/dictionary.aspx?definition=permutation
