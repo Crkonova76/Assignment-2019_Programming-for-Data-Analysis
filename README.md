@@ -104,7 +104,7 @@ _source:_
 
 The probability distribution function of the continuous uniform distribution is:
 
-
+![Uniform distr formula](https://user-images.githubusercontent.com/47481671/68549132-ce81ce00-03ec-11ea-8d46-457cc847bd29.PNG)
 
 
 The curve describing the distribution is a rectagle with constant heigh across the interval and 0 heigh elserwhere.Any interval of numbers of equal width has an equal probability of being observed.
