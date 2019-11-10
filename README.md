@@ -87,6 +87,8 @@ _source:_
 A combination is a selection of all or part of a set of objects, without regard to the order in which objects are selected.
 Formula for the number of combinations of n objects taken r at a time:<br/>
 
+![combination formula](https://user-images.githubusercontent.com/47481671/68549022-88783a80-03eb-11ea-912d-d29f263af3aa.PNG)
+
 _source:_
 >https://stattrek.com/statistics/dictionary.aspx?definition=combination
 
