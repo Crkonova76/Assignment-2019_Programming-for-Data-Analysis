@@ -1,5 +1,9 @@
 # Assignment-2019_Programming-for-Data-Analysis
 
+GMIT 2019
+Martina Crkonova
+
+Purpose of this assignment is to explain the purpose and usage of 
 ## Definitions
 
 
@@ -18,7 +22,12 @@ Dimension is defined as the minimum number of coordinates needed to specify any 
        
 ### Permutation
 
+A permutation is an arrangement of all or part of a set of objects, with regard to the order of the arrangement.<br/>
+Formula for the number of permutations of n objects taken r at a time:<br/>
 
+
+
+_source:https://stattrek.com/statistics/dictionary.aspx?definition=permutation_
 
 ### Probability distributions
 
@@ -71,9 +80,7 @@ The following graph shows typical poisson distribution:
 
 
 
-Note that the normal distribution is a limiting case of Poisson distribution with the parameter λ→∞. Also, if the times between random events follow an exponential distribution with rate λ, then the total number of events in a time period of length t follows the Poisson distribution with parameter λt.
-
-
+Note that the normal distribution is a limiting case of Poisson distribution with the parameter λ→∞. Also, if the times between random events follow an exponential distribution with rate λ, then the total number of events in a time period of length t follows the Poisson distribution with parameter λ 
 #### Exponential Distribution
 
 Source: https://www.datacamp.com/community/tutorials/probability-distributions-python
